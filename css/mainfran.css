@@ -1,0 +1,224 @@
+
+
+.aulas-particulares{
+    margin-left: 70px;
+    align-items:center;
+    justify-content:space-between;
+    margin-top: -60px;
+}
+.aulas-particulares article{
+    margin-inline:270px;
+    width: 350px;
+    margin-top: 30px;
+}
+
+
+.aulas-particulares article img{
+
+    margin-bottom: 10px;
+    margin-inline-start: 120px;
+    
+    
+}
+
+
+
+.aulas-particulares article h1{
+    
+    text-align:center;
+    font-size: 110px;
+    line-height: 90%;
+    font-weight:400;
+    color: white;
+    justify-content: center;
+    margin-top: 50px;
+   
+}
+    
+#livros{
+
+margin-top: 80px;
+margin-bottom: -40px;
+
+}
+
+.aulas-particulares article h2{
+    
+        font-size: 40px;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        line-height: 100%;
+        color: white;
+        text-align:center;
+        justify-content: center;
+
+    }
+
+.aulas-particulares article p{
+
+    font-family: 'Barlow', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    color:white;
+    line-height: 100%;
+    margin-top: 10px;
+    
+}
+
+.aulas-particulares article h3{
+    line-height: 200%;
+    font-family: 'Barlow', sans-serif;
+    font-size: 16px;
+    text-align: center;
+    color:white
+}
+
+.aulas-particulares div{
+    margin-top: 40px; 
+    margin-inline-start: -5px;
+    
+}
+
+.aulas-particulares div img{
+    max-width: 30%;
+}
+
+
+.aulas-particulares img#folha{
+      
+        width: 700px;
+        margin-top:-180px ;
+        margin-inline:-170px;
+    }
+
+main section article h1{
+    font-family: 'giz';  
+    }
+
+main section article h2{
+    font-family: 'giz';   
+       
+    }
+   
+    
+    img#botao1:hover{
+        color: black;
+        opacity: 80%;
+    }     
+ img#botao1{
+       
+ margin-top: -100px;
+ margin-bottom: -100px;
+ position: absolute;
+ margin-left: 60px;
+ max-width: 400px;
+  
+             }
+             img#botao1:hover{
+                color: black;
+                opacity: 80%;
+            } 
+
+                #alfa{
+                color: #996633;
+                margin-top: -70px;
+                position:absolute;
+                margin-left: 110px;
+                font-family:cursive;
+                font-size: 25px;
+                font-weight: bold;
+                }           
+           
+                img#botao2:hover{
+                    color: black;
+                    opacity: 80%;
+                }            
+   img#botao2{
+   margin-top: 10px;
+   margin-bottom: -100px;
+   position: absolute;
+   margin-left: 60px;
+   max-width: 400px;
+           
+             }
+            
+           
+                 #reforco{
+                 color:#996633;
+                 margin-top: 40px;
+                 position:absolute;
+                 margin-left: 90px;
+                 font-family:cursive;
+                 font-size:25px;
+                 font-weight: bold;
+                       }
+
+  
+  
+  
+                       img#botao3:hover{
+                        color: black;
+                        opacity: 80%;
+                    } 
+  img#botao3{
+  margin-top: 120px;
+  margin-bottom: -100px;
+  position: absolute;
+  margin-left: 60px;
+  max-width: 450px;
+        
+            }
+
+       
+       
+                  #fundamental{
+                  color:#996633;
+                  margin-top: 145px;
+                  position:absolute;
+                  margin-left: 110px;
+                  font-family:cursive;
+                  font-size:25px;
+                  font-weight: bold;
+                               }                 
+                               img#botao4:hover{
+                                color: black;
+                                opacity: 80%;
+                            } 
+img#botao4{
+margin-top: 220px;
+margin-bottom: -100px;
+position: absolute;
+margin-left: 60px;
+
+
+
+         }
+        }
+        img#botao4:hover{
+            color: black;
+            opacity: 80%;
+        } 
+                   #aba {
+                   color:#996633;
+                   margin-top: 242px;
+                   position:absolute;
+                   margin-left: 110px;
+                   font-family:cursive;
+                   font-size:20px;
+                   font-weight: bold;
+                          }    
+               
+         
+ img#botao5{
+ margin-top: 330px;
+ margin-bottom: -100px;
+ position: absolute;
+ margin-left: 10px;
+ max-width: 400px;
+
+            }
+
+
+
+
+    }

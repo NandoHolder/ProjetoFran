@@ -1,0 +1,675 @@
+
+@media(max-width:900px){
+ 
+    h1 {
+
+font-size:150px !important;
+margin-left: -50px;
+    }  
+
+    h2 {
+
+        font-size:58px !important;
+        margin-left: -50px;
+            }  
+        
+p#fran{
+    font-size:50px !important;
+    margin-left: -70px;
+    white-space: nowrap;
+}
+h3{
+    font-size:30px !important;
+    margin-left: -15px;
+    white-space: nowrap;
+}
+
+
+
+    #corpo{
+
+margin-inline: 240px;
+
+
+}
+#folha{
+
+margin-inline: 270px;
+}
+
+
+    img#folha{
+  width: 800px !important;
+  margin-inline: -240px !important;
+}
+
+img#botao1,img#botao2,img#botao3,img#botao4{
+    margin-inline: -30px !important;
+    width: 400px !important;
+}
+
+
+#alfa{
+    margin-top: -50px;
+    font-size: 30px;
+    margin-inline: 90px;
+}
+
+
+
+    p#reforco{
+    font-size:30px;
+   white-space: nowrap;
+    margin-inline: 70px;
+    margin-top: 60px
+}
+
+#fundamental{
+    font-size: 30px;
+    margin-left: 90px;
+    margin-top: 170px;
+   
+     white-space: nowrap;
+}
+    
+#aba{
+    font-size: 25px;
+    margin-top: 255px;
+    margin-left: 80px;
+    line-height: 35px;
+}
+
+img#botao5{
+
+    margin-top: 400px;
+    margin-left: 0px;
+}
+
+
+
+}
+
+@media(max-width:800px){
+ 
+    h1 {
+
+font-size:150px !important;
+margin-left: -50px;
+    }  
+
+    h2 {
+
+        font-size:58px !important;
+        margin-left: -50px;
+            }  
+        
+p#fran{
+    font-size:50px !important;
+    margin-left: -70px;
+    white-space: nowrap;
+}
+h3{
+    font-size:30px !important;
+    margin-left: -15px;
+    white-space: nowrap;
+}
+
+
+
+    #corpo{
+
+margin-inline: 240px;
+
+
+}
+#folha{
+
+margin-inline: 270px;
+}
+
+
+    img#folha{
+  width: 800px !important;
+  margin-inline: -240px !important;
+}
+
+img#botao1,img#botao2,img#botao3,img#botao4{
+    margin-inline: -30px !important;
+    width: 400px !important;
+}
+
+
+#alfa{
+    margin-top: -50px;
+    font-size: 30px;
+    margin-inline: 90px;
+}
+
+
+
+    p#reforco{
+    font-size:30px;
+   white-space: nowrap;
+    margin-inline: 70px;
+    margin-top: 60px
+}
+
+#fundamental{
+    font-size: 30px;
+    margin-left: 90px;
+    margin-top: 170px;
+   
+     white-space: nowrap;
+}
+    
+#aba{
+    font-size: 25px;
+    margin-top: 255px;
+    margin-left: 80px;
+    line-height: 35px;
+}
+
+img#botao5{
+
+    margin-top: 400px;
+    margin-left: 0px;
+}
+
+
+
+}
+
+
+@media(max-width:700px){
+ 
+    h1 {
+
+font-size:150px !important;
+margin-left: -50px;
+    }  
+
+    h2 {
+
+        font-size:58px !important;
+        margin-left: -50px;
+            }  
+        
+p#fran{
+    font-size:50px !important;
+    margin-left: -70px;
+    white-space: nowrap;
+}
+h3{
+    font-size:30px !important;
+    margin-left: -15px;
+    white-space: nowrap;
+}
+
+
+
+    #corpo{
+
+margin-inline: 250px;
+
+
+}
+#folha{
+    margin-inline: 280px;
+}
+
+
+
+
+
+
+    img#folha{
+  width: 800px !important;
+  margin-inline: -240px !important;
+}
+
+img#botao1,img#botao2,img#botao3,img#botao4{
+    margin-inline: -30px !important;
+    width: 400px !important;
+}
+
+
+#alfa{
+    margin-top: -50px;
+    font-size: 30px;
+    margin-inline: 90px;
+}
+
+
+
+    p#reforco{
+    font-size:30px;
+   white-space: nowrap;
+    margin-inline: 70px;
+    margin-top: 60px
+}
+
+#fundamental{
+    font-size: 30px;
+    margin-left: 90px;
+    margin-top: 170px;
+   
+     white-space: nowrap;
+}
+    
+#aba{
+    font-size: 25px;
+    margin-top: 255px;
+    margin-left: 80px;
+
+}
+
+img#botao5{
+
+    margin-top: 400px;
+    margin-left: 0px;
+}
+
+
+
+}
+
+
+@media(max-width:600px){
+ 
+    h1 {
+
+font-size:150px !important;
+margin-left: -50px;
+    }  
+
+    h2 {
+
+        font-size:58px !important;
+        margin-left: -50px;
+            }  
+        
+p#fran{
+    font-size:50px !important;
+    margin-left: -70px;
+    white-space: nowrap;
+}
+h3{
+    font-size:30px !important;
+    margin-left: -15px;
+    white-space: nowrap;
+}
+
+
+
+    #corpo{
+
+margin-inline: 240px;
+
+
+}
+#folha{
+    margin-inline: 280px;   
+}
+
+
+
+
+
+
+    img#folha{
+  width: 800px !important;
+  margin-inline: -250px !important;
+}
+
+img#botao1,img#botao2,img#botao3,{
+    margin-inline: -30px !important;
+    width: 400px !important;
+}
+
+
+#alfa{
+    margin-top: -50px;
+    font-size: 30px;
+    margin-inline: 90px;
+}
+
+
+
+    p#reforco{
+    font-size:30px;
+   white-space: nowrap;
+    margin-inline: 70px;
+    margin-top: 60px
+}
+
+#fundamental{
+    font-size: 30px;
+    margin-left: 90px;
+    margin-top: 170px;
+   
+     white-space: nowrap;
+}
+img#botao4{
+    margin-inline: -30px !important;
+    width: 400px !important;
+    height: 150px;
+    
+}
+#aba{
+    font-size: 30px;
+    margin-top: 270px;
+    margin-left: 50px;
+    white-space:nowrap;
+
+}
+
+img#botao5{
+
+    margin-top: 400px;
+    margin-left: 0px;
+}
+
+
+
+}
+@media(max-width:500px){
+ 
+    h1 {
+
+font-size:150px !important;
+margin-left: -50px;
+    }  
+
+    h2 {
+
+        font-size:58px !important;
+        margin-left: -50px;
+            }  
+        
+p#fran{
+    font-size:50px !important;
+    margin-left: -70px;
+    white-space: nowrap;
+}
+h3{
+    font-size:30px !important;
+    margin-left: -20px;
+    white-space: nowrap;
+}
+
+
+
+    #corpo{
+
+margin-inline: 250px;
+
+
+}
+#folha{
+    margin-inline: 300px;   
+}
+
+
+
+
+
+
+    img#folha{
+  width: 800px !important;
+  margin-inline: -250px !important;
+}
+
+img#botao1,img#botao2,img#botao3,img#botao4{
+    margin-inline: -30px !important;
+    width: 400px !important;
+}
+
+
+#alfa{
+    margin-top: -50px;
+    font-size: 30px;
+    margin-inline: 90px;
+}
+
+
+
+    p#reforco{
+    font-size:30px;
+   white-space: nowrap;
+    margin-inline: 70px;
+    margin-top: 60px
+}
+
+#fundamental{
+    font-size: 30px;
+    margin-left: 90px;
+    margin-top: 170px;
+   
+     white-space: nowrap;
+}
+    
+#aba{
+    font-size: 30px;
+    margin-top: 270px;
+    margin-left: 60px;
+
+}
+
+img#botao5{
+
+    margin-top: 400px;
+    margin-left: 0px;
+}
+
+
+
+}
+
+@media(max-width:400px){
+ 
+    h1 {
+
+font-size:150px !important;
+margin-left: -50px;
+    }  
+
+    h2 {
+
+        font-size:58px !important;
+        margin-left: -50px;
+            }  
+        
+p#fran{
+    font-size:50px !important;
+    margin-left: -70px;
+    white-space: nowrap;
+}
+h3{
+    font-size:30px !important;
+    margin-left: -15px;
+    white-space: nowrap;
+}
+
+
+
+    #corpo{
+
+margin-inline: 240px;
+
+
+}
+#folha{
+    margin-inline: 300px;  
+    width: 110px !important; 
+}
+
+
+
+
+
+
+    img#folha{
+  width: 800px !important;
+  margin-inline: -250px !important;
+}
+
+img#botao1{
+   margin-inline: -30px !important;
+   width: 400px !important;
+    margin-top: -120px;
+}
+
+img#botao2{
+    margin-inline: -30px !important;
+    width: 400px !important;
+          }
+
+img#botao3{
+     margin-inline: -30px !important;
+      width: 400px !important;
+      margin-top: 160px;      
+         
+    
+    }
+
+img#botao4{
+     margin-inline: -30px !important;
+     width: 400px !important;
+     margin-top: 300px;      
+    
+    }
+            
+
+#alfa{
+    margin-top: -80px;
+    font-size: 40px;
+    margin-inline: 60px;
+}
+
+
+
+    p#reforco{
+    font-size:40px;
+   white-space: nowrap;
+    margin-inline: 25px;
+    margin-top: 60px
+}
+
+#fundamental{
+    font-size: 40px;
+    margin-left: 50px;
+    margin-top: 200px;
+   
+     white-space: nowrap;
+}
+    
+#aba{
+    font-size: 35px;
+    margin-top:350px;
+    margin-left: 40px;
+
+}
+
+img#botao5{
+
+    margin-top: 460px;
+    margin-left: 0px;
+}
+
+
+
+}
+
+@media (max-width: 300px){
+    h1 {
+
+        font-size:150px !important;
+        margin-left: -50px;
+            }  
+        
+            h2 {
+        
+                font-size:58px !important;
+                margin-left: -50px;
+                    }  
+                
+        p#fran{
+            font-size:50px !important;
+            margin-left: -70px;
+            white-space: nowrap;
+        }
+        h3{
+            font-size:30px !important;
+            margin-left: -15px;
+            white-space: nowrap;
+        }
+        
+        
+        
+            #corpo{
+        
+        margin-inline: 240px;
+        
+        
+        }
+        #folha{
+            margin-inline: 300px;  
+            width: 150px !important; 
+        }
+        
+        
+        
+        
+        
+        
+            img#folha{
+          width: 800px !important;
+          margin-inline: -250px !important;
+        }
+        
+        img#botao1,img#botao2,img#botao3,img#botao4{
+            margin-inline: -30px !important;
+            width: 400px !important;
+        }
+        
+        
+        #alfa{
+            margin-top: -70px;
+            font-size: 35px;
+            margin-inline: 70px;
+        }
+        
+        
+        
+            p#reforco{
+            font-size:35px;
+           white-space: nowrap;
+            margin-inline: 50px;
+            margin-top: 60px
+        }
+        
+        #fundamental{
+            font-size: 35px;
+            margin-left: 70px;
+            margin-top: 210px;
+           
+             white-space: nowrap;
+        }
+            
+        #aba{
+            font-size: 35px;
+            margin-top: 350px;
+            margin-left: 35px;
+        
+        }
+        
+        img#botao5{
+        
+            margin-top: 450px;
+            margin-left: 0px;
+        }
+        
+        
+        
+        }
+}

@@ -1,0 +1,54 @@
+* {
+    
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    text-decoration: none;
+    font-family:  'Source Sans Pro', sans-serif;
+    font-weight: 300;
+    list-style: none;
+    align-content: center;
+   
+    }
+    
+    body{
+       
+        background-color: #FFB3B3;
+   
+    }
+ 
+   
+    .container{
+      
+    width: 1000px;
+    margin: 0px auto;
+    display: flex;
+    flex-direction: column;
+    }
+
+    footer.container{
+    margin: -200px auto;
+     }
+    
+   
+        
+    .row{
+     display: flex;
+     flex-direction:row;
+     
+     }
+ 
+    @font-face {
+     font-family: 'giz';
+     src: url('EraserRegular.ttf');
+    }
+
+    .menu{
+     width: 440px;
+     }
+
+
+}
